@@ -1,3 +1,9 @@
+ignition-fuel-tools4 (4.0.0~pre1-1~bionic) bionic; urgency=medium
+
+  * ignition-fuel-tools4 4.0.0~pre1-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Wed, 04 Dec 2019 18:12:31 +0100
+
 ignition-fuel-tools4 (3.999.999-1) bionic; urgency=medium
 
   * Stub to be removed after first entry
