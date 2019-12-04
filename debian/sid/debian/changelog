@@ -1,35 +1,6 @@
-ignition-fuel-tools3 (3.2.1-1~sid) sid; urgency=medium
+ignition-fuel-tools4 (3.999.999-1) sid; urgency=medium
 
-  * ignition-fuel-tools3 3.2.1-1 release
+  * Stub to be removed after first entry
 
- -- Louise Poubel <louise@openrobotics.org>  Mon, 12 Aug 2019 14:56:30 -0700
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Tue, 03 Dec 2019 01:05:26 +0100
 
-ignition-fuel-tools3 (3.2.0-1~sid) sid; urgency=medium
-
-  * ignition-fuel-tools3 3.2.0-1 release
-
- -- Nate Koenig <nate@openrobotics.org>  Fri, 14 Jun 2019 07:03:22 -0700
-
-ignition-fuel-tools3 (3.1.0-1~sid) sid; urgency=medium
-
-  * ignition-fuel-tools3 3.1.0-1 release
-
- -- Steve Peters <scpeters@osrfoundation.org>  Sun, 19 May 2019 12:22:57 -0700
-
-ignition-fuel-tools3 (3.1.0~pre1-1~sid) sid; urgency=medium
-
-  * ignition-fuel-tools3 3.1.0~pre1-1 release
-
- -- Steve Peters <scpeters@osrfoundation.org>  Thu, 09 May 2019 14:45:13 -0700
-
-ignition-fuel-tools3 (3.0.1-1~sid) sid; urgency=medium
-
-  * ignition-fuel-tools3 3.0.1-1 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 28 Feb 2019 23:49:42 +0100
-
-ignition-fuel-tools3 (3.0.0-1~sid) sid; urgency=medium
-
-  * ignition-fuel-tools3 3.0.0-1 release
-
- -- Nate Koenig <nate@openrobotics.org>  Wed, 30 Jan 2019 14:44:53 -0700
