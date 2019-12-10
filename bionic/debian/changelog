@@ -1,11 +1,5 @@
-ignition-fuel-tools4 (4.0.0~pre2-1~bionic) bionic; urgency=medium
+ignition-fuel-tools4 (4.0.0-1~bionic) bionic; urgency=medium
 
-  * ignition-fuel-tools4 4.0.0~pre2-1 release
+  * ignition-fuel-tools4 4.0.0-1 release
 
- -- Nate Koenig <nate@osrfoundation.org>  Wed, 04 Dec 2019 13:48:28 -0700
-
-ignition-fuel-tools4 (4.0.0~pre1-1~bionic) bionic; urgency=medium
-
-  * ignition-fuel-tools4 4.0.0~pre1-1 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Wed, 04 Dec 2019 18:12:31 +0100
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Tue, 10 Dec 2019 13:52:41 +0100
