@@ -48,3 +48,19 @@ Multi-Arch: same
 Description: Gazebo fuel-tools classes and functions for robot apps - Development files
   Gazebo fuel-tools is a component in the Gazebo framework, a set of libraries
   designed to rapidly develop robot applications.
+
+Package: libgz-fuel-tools4
+Depends: libignition-fuel-tools4, ${misc:Depends}
+Architecture: all
+Priority: optional
+Section: oldlibs
+Description: transitional package
+ It's recommended to use the gz packages going forward.
+
+Package: libgz-fuel-tools4-dev
+Depends: libignition-fuel-tools4-dev, ${misc:Depends}
+Architecture: all
+Priority: optional
+Section: oldlibs
+Description: transitional package
+ It's recommended to use the gz packages going forward.
