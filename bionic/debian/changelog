@@ -1,8 +1,14 @@
+ignition-fuel-tools4 (4.8.0-1~bionic) bionic; urgency=medium
+
+  * ignition-fuel-tools4 4.8.0-1 release
+
+ -- Nate Koenig <nate@openrobotics.org>  Wed, 07 Dec 2022 09:04:42 -0800
+
 ignition-fuel-tools4 (4.7.0-1~bionic) bionic; urgency=medium
 
   * ignition-fuel-tools4 4.7.0-1 release
 
- -- Nate Koenig <nate@openrobotics.org>  Thu, 17 No 2022 15:44:29 -0800
+ -- Nate Koenig <nate@openrobotics.org>  Thu, 17 Nov 2022 15:44:29 -0800
 
 ignition-fuel-tools4 (4.6.0-1~bionic) bionic; urgency=medium
 
