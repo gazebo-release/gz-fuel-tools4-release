@@ -1,3 +1,9 @@
+ignition-fuel-tools4 (4.9.0-1~focal) focal; urgency=medium
+
+  * ignition-fuel-tools4 4.9.0-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Tue, 02 May 2023 10:46:03 -0500
+
 ignition-fuel-tools4 (4.8.3-1~focal) focal; urgency=medium
 
   * ignition-fuel-tools4 4.8.3-1 release
